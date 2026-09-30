@@ -102,8 +102,8 @@ The suite inspects structural properties:
 
 ### 1. Installation
 ```bash
-git clone https://github.com/mbroglio/LinearSolvers.git
-cd LinearSolvers
+git clone https://github.com/mbroglio/sparse-linear-solvers.git
+cd sparse-linear-solvers
 
 python3 -m venv venv
 source venv/bin/activate
